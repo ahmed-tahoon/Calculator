@@ -54,7 +54,7 @@ function evaluate(){
    {
        num1=Number(num1)
        num2=Number(num2);
-       res= num2/num1;
+       res= num1/num2;
    }
 
 
